@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap for Google, Bing, and Search Engine Indexing
+Sitemap: https://thecorcapital.com/sitemap.xml
